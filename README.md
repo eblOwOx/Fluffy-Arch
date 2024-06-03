@@ -1,5 +1,5 @@
 # arch-ISO
-An ISO image i made based on a Arch Linux distro.
+An ISO image I made based on an Arch Linux distro.
 
 For now its just a simple arch installation ISO.
 
@@ -7,7 +7,7 @@ I will add a DE and more usefull stuff later.
 
 ## Building the image
 
-You're gonna need pacman as a packet manager in order to build the image.
+You're going to need pacman as a packet manager in order to build the image.
 
 Also install the package called archiso to build the image.
 ```bash

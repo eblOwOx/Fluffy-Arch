@@ -33,3 +33,10 @@ And voilà, the iso image is located on
 ```bash
 ~/iso/output/fluffyarch-2024.06.03-x86_64.iso
 ```
+
+## TODO
+
+- Add KDE plasma because why not
+- Add system rescue tools
+- Add calamares when KDE plasma is fully operational
+- Maybe add a tiling Wayland compositor because i love hyprland and sway

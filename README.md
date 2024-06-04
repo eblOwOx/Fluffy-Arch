@@ -40,3 +40,4 @@ And voilà, the iso image is located on
 - Add system rescue tools
 - Add calamares when KDE plasma is fully operational
 - Maybe add a tiling Wayland compositor because i love hyprland and sway
+- And other useful stuff when i have the time

@@ -37,7 +37,8 @@ And voilà, the iso image is located on
 ## TODO
 
 - Add KDE plasma because why not (DONE)
-- Customize KDE plasma
+- Customize KDE plasma and sddm
+- Switching to grub instead of systemd-boot
 - Add more system rescue tools
 - Add calamares when KDE plasma is fully operational
 - Maybe add a tiling Wayland compositor because i love hyprland and sway

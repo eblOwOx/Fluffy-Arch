@@ -36,8 +36,9 @@ And voilà, the iso image is located on
 
 ## TODO
 
-- Add KDE plasma because why not
-- Add system rescue tools
+- Add KDE plasma because why not (DONE)
+- Customize KDE plasma
+- Add more system rescue tools
 - Add calamares when KDE plasma is fully operational
 - Maybe add a tiling Wayland compositor because i love hyprland and sway
 - And other useful stuff when i have the time

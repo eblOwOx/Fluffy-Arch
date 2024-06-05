@@ -25,7 +25,7 @@ git clone https://github.com/eblOwOx/arch-ISO.git
 
 Open a terminal on the parent directory of releng and use this command 
 ```bash
-mkarchiso -v -w /path/to/iso/dir/output -o /path/to/iso/dir/output /path/to/releng/
+mkarchiso -v -w output/ -o output/ releng/
 ```
 
 You might need to run this command with root access, just add "sudo" at the start.

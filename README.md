@@ -17,7 +17,7 @@ pacman -S archiso
 Create a new directory and git clone the releng profile on it.
 ```bash
 mkdir ~/iso
-git clone git-url
+git clone https://github.com/eblOwOx/arch-ISO.git
 ```
 
 

@@ -7,6 +7,8 @@ I'll customize the look and add more useful things later.
 
 ## Building the image
 
+There's maybe others ways to do it, but for now its the only way i found to build the image.
+
 You're going to need pacman as a packet manager in order to build the image.
 
 Also install the package called archiso to build the image.

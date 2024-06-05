@@ -30,7 +30,7 @@ You might need to run this command with root access, just add "sudo" at the star
 
 And voilà, the iso image is located on 
 ```bash
-~/iso/output/fluffyarch-2024.06.03-x86_64.iso
+~/iso/output/fluffyarch-yyyy.mm.dd-x86_64.iso
 ```
 
 ## TODO

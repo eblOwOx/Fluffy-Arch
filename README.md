@@ -1,9 +1,9 @@
 # arch-ISO
 An ISO image I made based on an Arch Linux distro.
 
-For now its just a simple arch installation ISO.
+For now its just a simple Arch Liunx distro with KDE plasma
 
-I will add a DE and more usefull stuff later.
+I'll customize the look and add more useful things later.
 
 ## Building the image
 

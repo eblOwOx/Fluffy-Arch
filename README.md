@@ -1,7 +1,7 @@
 # Fluffy Arch
 A distro made for my own pleasure.
 
-For now its just a simple Arch Liunx distro with KDE plasma.
+For now its just a simple Arch Linux distro with KDE plasma.
 
 I'll customize the look and add more useful things later.
 

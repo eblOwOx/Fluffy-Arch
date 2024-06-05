@@ -4,6 +4,7 @@ arch-install-scripts
 archinstall
 b43-fwcutter
 base
+base-devel
 bash
 bcachefs-tools
 bind
@@ -109,6 +110,7 @@ sof-firmware
 squashfs-tools
 sudo
 syslinux
+systemd
 systemd-resolvconf
 tcpdump
 terminus-font
@@ -135,6 +137,7 @@ zsh
 # KDE plasma
 plasma-meta
 sddm
+networkmanager
 
 # Other useful stuff
 firefox
@@ -143,3 +146,7 @@ flatpak
 firewalld
 nmap
 iputils
+kitty
+viu
+#uwufetch #Very useful stuff right here but pacman can't find the package :(
+neofetch

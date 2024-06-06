@@ -5,6 +5,13 @@ For now its just a simple Arch Linux distro with KDE plasma.
 
 I'll customize the look and add more useful things later.
 
+## Specificity
+This distro was made for x86-64 arch processor.
+
+Works with and without UEFI.
+
+Still under developpment, expect bugs or stuff breaking.
+
 ## Building the image
 
 There's maybe others ways to do it, but for now its the only way i found to build the image.

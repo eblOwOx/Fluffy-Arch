@@ -51,3 +51,4 @@ And voilà, the iso image is located on
 - Add calamares when KDE plasma is fully operational
 - Maybe add a tiling Wayland compositor because i love hyprland and sway
 - And other useful stuff when i have the time
+- Also make the distro bootable with a mutli-boot utility like ventoy because it doesn't work

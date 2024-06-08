@@ -3,7 +3,7 @@ A distro made for my own pleasure.
 
 For now its just a simple Arch Linux distro with KDE plasma.
 
-But guess what? I broke everything... cool
+But guess what? I broke everything... cool (okay i just forgot to add the sddm symlink woops)
 
 I'll also customize the look and add more useful things later.
 

@@ -134,6 +134,9 @@ xfsprogs
 xl2tpd
 zsh
 
+#Other useful packages
+pacman
+
 # some drivers because im using a NVIDIA gpu and a AMD on board gpu
 nvidia-dkms
 #I wish that some days, NVIDIA open source drivers will be better than proprietary one
@@ -157,6 +160,5 @@ iputils
 kitty
 viu
 uwufetch
-#Very useful stuff right here but pacman can't find the package for some reason :(
 neofetch
 vlc

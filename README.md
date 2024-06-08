@@ -3,7 +3,9 @@ A distro made for my own pleasure.
 
 For now its just a simple Arch Linux distro with KDE plasma.
 
-I'll customize the look and add more useful things later.
+But guess what? I broke everything... cool
+
+I'll also customize the look and add more useful things later.
 
 ## Specificity
 This distro was made for x86-64 arch processor.

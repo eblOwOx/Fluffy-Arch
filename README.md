@@ -1,5 +1,5 @@
 # Fluffy Arch
-A distro made for my own pleasure.
+A distro made for my own pleasure. DO NOT DAILY DRIVE THIS DISTRO I MADE IT FOR FUN
 
 For now its just a simple Arch Linux distro with KDE plasma.
 
